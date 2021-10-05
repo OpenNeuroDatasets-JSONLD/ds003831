@@ -1,10 +1,10 @@
-##OVERVIEW: 
+###OVERVIEW: 
 The dataset represents the raw data supporting the National Science
 Foundation Award (BCS-1735820), titled "Cognitive Control Theoretic
 Mechanisms of Real-time fMRI-Guided Neuromodulation"
 
 
-##BOLD SIGNAL
+###BOLD SIGNAL
 The bold signal was acquired using the Philips Achieva seq+z slice timing
 with 37 slices. Based on TR=2.0 s, this sequence creates an inter-slice
 interval of 0.0541 s.  The following array has been copied into the SliceTime 
