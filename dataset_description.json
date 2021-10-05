@@ -1,5 +1,13 @@
 {
-	"Name": "Cognitive Control Theoretic Mechanisms of Real-time fMRI-Guided Neuromodulation (CTM)",
-   "Authors": ["Keith A. Bush", "Ivan Messias", "Kevin Fialkowski"],
-	"BIDSVersion": "1.2.3"
+    "Name": "Cognitive Control Theoretic Mechanisms of Real-time fMRI-Guided Neuromodulation (CTM)",
+    "Authors": [
+        "Keith A. Bush",
+        "Ivan Messias",
+        "Kevin Fialkowski"
+    ],
+    "BIDSVersion": "1.2.3",
+    "Funding": [
+        "National Science Foundation grant BCS-1735820"
+    ],
+    "License": "CC0"
 }
