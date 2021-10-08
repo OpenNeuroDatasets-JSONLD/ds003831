@@ -10,7 +10,7 @@ The study was performed over two separate sessions, each occurring on separate d
 **Resting State Task (Rest)**
 Subjects underwent 7.5 min of resting state scanning.  During training, subjects were instructed to “let your mind wander, not focusing on any specific thought” and to “try to keep your head still and your eyes open [and] … blink naturally.”  
 
-**Intrinsic Modulation of Core Affect Task (Modulate)**
+**Intrinsic Neuromodulation of Core Affect Task (Modulate)**
 10.3 min task consisting of (n=8) real-time guided affect self-regulation trials.  Each trial first presented an affective goal for 4s (positive valence, negative valence, high arousal, or low arousal).  The goal was followed by interleaved self-regulation instructions (the word "FEEL" for 10 s) and neurofeedback (4 s, a red dot on a grid representing the full range of valence and arousal scores possible).  During the self-regulation, subjects drew upon pre-prepared mental strategies (either imagined experiences or memories) in order to self-induce affect processing according to the desired goal. Real-time fMRI decoded valence and arousal processing (block-averaged over the preceding 10 s self-regulation period) were plotted on the grid as a red dot. The task used two randomly counterbalanced designs (A & B), which differed only in the order of the goals to be achieved. Each subject received both "real" and "sham" neurofeedback, randomly counterbalanced between subjects.  The "sham" neurofeedback was based on a high-performing subject during a pilot of the experiment design.
 
 ###Data Collection
