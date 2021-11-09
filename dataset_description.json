@@ -15,5 +15,6 @@
     "ReferencesAndLinks": [
         "Open Science Framework Project: https://osf.io/jwv6c/"
     ],
-    "License": "CC0"
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds003831.v1.0.0"
 }
